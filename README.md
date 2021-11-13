@@ -17,19 +17,19 @@
                         <div class="shareButtons_overlay"></div>
                         <div class="shareButtons_links">
                             <a href="#" class="shareButtons_link">
-                                <img src="images/facebook-svgrepo-com.svg" alt="Facebook">
+                                <img src="facebook-svgrepo-com.svg" alt="Facebook">
                             </a>
                             <a href="#" class="shareButtons_link">
-                                <img src="images/github-svgrepo-com.svg" alt="Github">
+                                <img src="github-svgrepo-com.svg" alt="Github">
                             </a>
                             <a href="#" class="shareButtons_link">
-                                <img src="images/hashnode-icon-svgrepo-com.svg" alt="Hashnode">
+                                <img src="hashnode-icon-svgrepo-com.svg" alt="Hashnode">
                             </a>
                             <a href="#" class="shareButtons_link">
-                                <img src="images/instagram-svgrepo-com.svg" alt="Instagram">
+                                <img src="instagram-svgrepo-com.svg" alt="Instagram">
                             </a>
                             <a href="#" class="shareButtons_link">
-                                <img src="images/twitter-svgrepo-com.svg" alt="Twitter" >
+                                <img src="twitter-svgrepo-com.svg" alt="Twitter" >
                             </a>
                         </div>
                     </div>
