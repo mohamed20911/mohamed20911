@@ -89,8 +89,8 @@
                     }
 
                     .i {
-                              width: 50%;
-                              height: 50%;
+                              width: 10px;
+                              height: 10px;
                     }
 
                     .shareButtons:hover .shareButtons_overlay{
