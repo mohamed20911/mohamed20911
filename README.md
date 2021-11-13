@@ -2,33 +2,39 @@
 
 🔤Hello World!🔤❗️
 
-<html>
-  <head></head>
-  <body>
-    <div class="container1">
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Share Button</title>
+          <link rel="stylesheet" href="style.css">
+</head>
+<body>
+          <div class="container1">
                     <div class="shareButtons">
                         <div class="shareButtons_text">Share Your Profile</div>
                         <div class="shareButtons_overlay"></div>
                         <div class="shareButtons_links">
                             <a href="#" class="shareButtons_link">
-                                <img src="facebook-svgrepo-com.svg" alt="Facebook" class="i">
+                                <img src="images/facebook-svgrepo-com.svg" alt="Facebook">
                             </a>
                             <a href="#" class="shareButtons_link">
-                                <img src="github-svgrepo-com.svg" alt="Github" class="i">
+                                <img src="images/github-svgrepo-com.svg" alt="Github">
                             </a>
                             <a href="#" class="shareButtons_link">
-                                <img src="hashnode-icon-svgrepo-com.svg" alt="Hashnode" class="i">
+                                <img src="images/hashnode-icon-svgrepo-com.svg" alt="Hashnode">
                             </a>
                             <a href="#" class="shareButtons_link">
-                                <img src="instagram-svgrepo-com.svg" alt="Instagram" class="i">
+                                <img src="images/instagram-svgrepo-com.svg" alt="Instagram">
                             </a>
                             <a href="#" class="shareButtons_link">
-                                <img src="twitter-svgrepo-com.svg" alt="Twitter" class="i">
+                                <img src="images/twitter-svgrepo-com.svg" alt="Twitter" >
                             </a>
                         </div>
                     </div>
-     </div>
-  </body>
+          </div>
+</body>
 </html>
 
 <!--
