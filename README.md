@@ -3,8 +3,11 @@
 
 <h2>
   " Hi there , I am MOHAMED! "
+  <br>
   " A Front-End developer . "
+  <br>
   " I learn  HTML + CSS + JAVASCRIPT + PYTHON + C# + PHP "
+  <br>
 
   " Thank you @Programing-io "
 </h2>
