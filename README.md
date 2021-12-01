@@ -1,6 +1,7 @@
 
 <h1>Hello There 😎😎</h1>
 
+<img src"./channels4_profile.jpg">
 <h2>
   " Hi there , I am MOHAMED! "
   <br>
